@@ -10,3 +10,7 @@ A simple Todo application built using:
 - Add tasks with date
 - Delete tasks
 - Data persists using localStorage
+
+## 🚀 Demo
+
+**Live Demo:** [View Live]( https://ayeshafatiima.github.io/Todo-App/)
